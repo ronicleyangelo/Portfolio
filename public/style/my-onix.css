@@ -1,0 +1,33 @@
+#projeto_onix{
+    max-width: 100%;
+    text-align: start;
+}
+
+.project_primary {
+    color: var(--text-color);
+    border-radius: 12px;
+    background: var(--bg-cards); 
+}
+
+.project_segundary{
+    margin-left: 5px;
+    color: var(--text-color);
+    background: var(--bg-cards);
+    border-radius: 12px;
+}
+
+.star_branch span{
+    margin-left: 1px;
+}
+
+.radio_java_script {
+    margin-left: 14em;
+}
+
+.raio_java_script {
+   margin-left: 15em;
+}
+
+.paragrafo {
+    margin-left: 1em;
+}

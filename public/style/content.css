@@ -1,0 +1,22 @@
+.content {
+    background: var(--bg-cards); 
+    color: var(--text-color);
+
+    border-radius: 12px;
+}
+
+a {
+    font-family: sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+    color: var(--text-color);
+    
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+a:hover {
+    text-decoration: none;
+}
